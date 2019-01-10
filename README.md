@@ -1,4 +1,4 @@
-# Bank-Queue-Simulation
+# Teller-Queue-Simulation
 
 README for qSim.cpp by Jonathan Dang and Panagiotis Argyrakis (2/16/2018)
 
